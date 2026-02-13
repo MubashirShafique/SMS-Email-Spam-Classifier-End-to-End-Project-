@@ -73,3 +73,11 @@ flutter run
 
 - Result is shown instantly in Web or Mobile app.
 
+
+## Notes
+
+- Make sure Python and Flutter are installed on your system.
+
+- API must be running before using Web or Mobile apps.
+
+- Dataset and trained model files are already included in the repository.
