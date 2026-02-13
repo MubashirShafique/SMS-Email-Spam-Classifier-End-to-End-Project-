@@ -63,9 +63,13 @@ flutter pub get
 flutter run
 
 ```
-### 4. Android App Demo
+## How It Works
 
-<video src="Android_App_Record_Video.webm" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+- User enters an SMS or Email text.
+
+- FastAPI sends it to the NLP model.
+
+- Model predicts Spam or Ham.
+
+- Result is shown instantly in Web or Mobile app.
 
