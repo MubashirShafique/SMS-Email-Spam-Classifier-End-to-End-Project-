@@ -35,8 +35,37 @@ cd 04_API_Backend
 pip install -r requirements.txt
 
 # Run FastAPI server
-uvicorn API:app --reload  ```
+uvicorn API:app --reload
+```
 
-gdd
+### 2. Web App Setup (Streamlit)
+```bash
+# Go to Streamlit folder
+cd 05_Streamlit_App
 
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run Streamlit_App.py
+```
+
+
+### 3. Mobile App Setup (Flutter)
+```bash
+# Go to Android app folder
+cd 06_Android_App
+
+# Get Flutter packages
+flutter pub get
+
+# Run the app
+flutter run
+
+```
+### 4. Android App Demo
+
+<video src="Android_App_Record_Video.webm" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
