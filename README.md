@@ -4,6 +4,14 @@ This is a complete AI system that classifies SMS and Emails as **Spam** or **Ham
 
 ---
 
+## App Showcase
+
+| **Splash Screen** | **Welcome / Intro** | **Message Input** | **Prediction Result** |
+| :---: | :---: | :---: | :---: |
+| <img src="07_Android_App_ScreenShots/2_.png" width="300"> | <img src="07_Android_App_ScreenShots/3_.png" width="300"> | <img src="07_Android_App_ScreenShots/4_.png" width="300"> | <img src="07_Android_App_ScreenShots/5_.png" width="300"> |
+
+---
+
 ## Project Features
 - **AI-Powered:** NLP-based classification model that gives accurate results.  
 - **FastAPI Backend:** Fast and reliable prediction service for the model.  
